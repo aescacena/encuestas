@@ -2,4 +2,8 @@
 
 li a {
 	color: green;
-	}
+}
+
+body {
+	background: white url("images/98646.jpg") no-repeat right bottom;
+}
